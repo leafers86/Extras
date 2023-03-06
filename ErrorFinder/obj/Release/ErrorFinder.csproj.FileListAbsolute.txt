@@ -1,0 +1,15 @@
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\ErrorFinder.exe.config
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\ErrorFinder.exe
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\ErrorFinder.pdb
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.AccessControl.dll
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.Permissions.dll
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.AccessControl.xml
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.Permissions.xml
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\obj\Release\ErrorFinder.csproj.CoreCompileInputs.cache
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\obj\Release\ErrorFinder.csproj.CopyComplete
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\obj\Release\ErrorFinder.exe
+C:\Users\smarkham\Desktop\SmartSort_FLL_T1_SAC\ErrorFinder\ErrorFinder\obj\Release\ErrorFinder.pdb
